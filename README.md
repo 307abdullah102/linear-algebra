@@ -5,7 +5,7 @@
 - MATH
 
 ## INSTALLATION
-### Installing opencv
+### Installing math library
 `pip install python-math`
 
 ## THEORY
